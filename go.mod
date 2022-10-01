@@ -8,7 +8,7 @@ require (
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/go-zookeeper/zk v1.0.2
-	github.com/segmentio/kafka-go v0.4.31
+	github.com/segmentio/kafka-go v0.4.35
 	github.com/sirupsen/logrus v1.8.1
 	github.com/uptrace/bun/driver/pgdriver v1.1.2
 	go.mongodb.org/mongo-driver v1.8.4
@@ -24,9 +24,9 @@ require (
 	github.com/google/go-cmp v0.5.7 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
-	github.com/klauspost/compress v1.14.2 // indirect
+	github.com/klauspost/compress v1.15.7 // indirect
 	github.com/kr/pretty v0.3.0 // indirect
-	github.com/pierrec/lz4/v4 v4.1.14 // indirect
+	github.com/pierrec/lz4/v4 v4.1.15 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/rogpeppe/go-internal v1.8.1 // indirect
@@ -38,9 +38,9 @@ require (
 	github.com/xdg-go/scram v1.0.2 // indirect
 	github.com/xdg-go/stringprep v1.0.2 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d // indirect
-	golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064 // indirect
+	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8 // indirect
+	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
 	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	mellium.im/sasl v0.2.1 // indirect
